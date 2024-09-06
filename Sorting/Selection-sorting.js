@@ -1,5 +1,6 @@
-//  Selection Sort works by repeatedly selecting the smallest element from the unsorted part of the list and 
-//  swapping it with the element at the current position. This process continues until the entire list is sorted.
+// Selection Sort is a sorting algorithm that works by repeatedly selecting the smallest element
+// from the unsorted portion of the list and swapping it with the element at the current position.
+// This process continues until the entire list is sorted.
 
 
 //Complexity
