@@ -5,10 +5,10 @@
 
 //Complexity
 // ---------------------------------
-// Best Case (Already Sorted): 𝑂(𝑛2) Time
-// Average Case: 𝑂(𝑛2) Time
-// Worst Case (Reverse Sorted): 𝑂(𝑛2) Time
-// Space Complexity 𝑂(𝑛2) 
+// Best Case (Already Sorted)  : 𝑂(𝑛2) Time
+// Average Case                : 𝑂(𝑛2) Time
+// Worst Case (Reverse Sorted) : 𝑂(𝑛2) Time
+// Space Complexity            : 𝑂(𝑛2) 
 
 
 
