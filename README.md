@@ -19,9 +19,7 @@ In this repository, I will share the key concepts, algorithms, and data structur
 - **Algorithms:**
   - Sorting (Bubble, Merge, Quick, etc.)
   - Searching (Binary Search, etc.)
-  - Dynamic Programming (Knapsack, Longest Common Subsequence, etc.)
-  - Greedy Algorithms
-  - Divide and Conquer
+  
 
 ## 🛠️ How to Use
 
