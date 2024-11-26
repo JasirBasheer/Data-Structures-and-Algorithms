@@ -1,0 +1,26 @@
+----------
+   HEAP
+----------
+
+
+Heap is tree like data structure used to efficiently store and retrieve datas
+it follow a hierarchical manner
+
+there are mainly two type of heaps
+Min Heap - Smallest value is always at the root of the heap.  'acceding'
+Max Heap - largest value is always at the root of the heap.   'descending'
+
+Applications
+- Priority Queues 
+- Task scheduling
+
+
+
+
+Operation to be practice
+-- Insertion
+-- Deletion
+-- Traversals
+-- Prefix Search 
+
+

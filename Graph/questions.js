@@ -40,38 +40,3 @@
 // console.log(adjList)
 
 
-
-//Q: Implement BFS using an adjacency list.
-
-// function bfs(adjList, start) {
-//     let visited = new Array(Object.keys(adjList).length).fill(false);
-//     let queue = [start];
-//     visited[start] = true;
-
-//     while (queue.length > 0) {
-//       let node = queue.shift();
-//       console.log(node);
-//       adjList[node].forEach(neighbor => {
-//         if (!visited[neighbor]) {
-//           queue.push(neighbor);
-//           visited[neighbor] = true;
-//         }
-//       });
-//     }
-//   }
-
-
-
-//Q: Implement DFS using an adjacency list.
-
-
-function dfs(adjList, start, visited = new Array(Object.keys(adjList).length).fill(false)) {
-    visited[start] = true;
-    console.log(start);
-
-    adjList[start].forEach(neighbor => {
-        if (!visited[neighbor]) {
-            dfs(adjList, neighbor, visited);
-        }
-    });
-}

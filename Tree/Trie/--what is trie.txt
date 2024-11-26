@@ -1,0 +1,23 @@
+----------
+   TRIE
+----------
+
+
+A trie is a tree like data structure used to efficiently store and get or retrieve strings 
+in hierarchical Structure
+
+Applications
+- Auto Complition and suggestions
+- Implimentaion of dictionary
+
+
+
+
+Operation to be practice
+-- Insertion
+-- Search
+-- Deletion
+-- Traversals
+-- Prefix Search 
+
+

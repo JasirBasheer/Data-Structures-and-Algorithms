@@ -1,0 +1,21 @@
+-------------------------
+   Binary Search Tree
+-------------------------
+
+Binary search tree is a tree data structure used to efficiently store and retrieve datas 
+It is a type of binary tree that keeps a specific ordering property, which allows for efficient search operations
+
+Applications
+- Memory Management
+- Database Indexing
+
+
+
+
+Operation to be practice
+-- Insertion
+-- Deletion
+-- Search
+-- Traversals
+-- Prefix Search 
+
