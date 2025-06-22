@@ -176,7 +176,6 @@ class LinkedList {
             current = current.next
         }
         console.log('No cycle detected');
-
     }
 
 

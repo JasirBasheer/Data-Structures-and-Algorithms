@@ -12,13 +12,13 @@
 
 
 
-// Code 
+// Code
 
 let nums = [4, 5, 32, 1, 5]
 
 for (let i = 0; i < nums.length - 1; i++) {
     let mini = i
-    for (let j = i + 1; j < nums.length; j++) {
+    for(let j = i + 1; j < nums.length; j++){
         if (nums[mini] > nums[j]) {
             mini = j
         }
