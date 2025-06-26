@@ -21,9 +21,7 @@ class HashTable{
                 return
             }
         }
-        
         bucket.push([key,value])
-
     }
 
     get(key){

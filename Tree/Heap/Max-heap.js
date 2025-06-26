@@ -41,7 +41,6 @@ class MinHeap{
             }
         }
     }
-
     heapifyDown(){
         let index = 0
         let left =this.getLeftNode(index)
